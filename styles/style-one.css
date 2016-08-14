@@ -2,19 +2,12 @@ body {
   margin: 0;
 }
 
-.row {
-  /*padding-top: 10vw;*/
-  /*padding-bottom: 40vw;*/
-}
-
 h1 {
   font-family: Lobster;
   color: white;
-  /*font-size: 8vw;*/
 }
 
 p {
   font-family: Lobster;
   color: white;
-  /*font-size: 3vw;*/
 }
